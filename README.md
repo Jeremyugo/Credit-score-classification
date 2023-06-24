@@ -11,3 +11,8 @@ An enembeling technique with four (4) estimators was used to create the final mo
 - Seaborn
 - Sklearn
 - Imblearn
+
+![image](https://github.com/Jeremyugo/Credit-score-classification/assets/36512525/872e05b4-2215-4a0c-ad8c-020476b18958)
+
+
+![image](https://github.com/Jeremyugo/Credit-score-classification/assets/36512525/ecdf5029-6325-4a9a-89b8-12c86a6dcbc4)
